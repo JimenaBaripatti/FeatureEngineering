@@ -1,0 +1,1622 @@
+from Census of Canada, 2016: cartographic boundary file at the FSA level,,
+CFSAUID,PRUID,PRNAME,Area Sq Km
+B1E,12,Nova Scotia / Nouvelle-Écosse,5.201865916
+B1G,12,Nova Scotia / Nouvelle-Écosse,6.441482684
+B1H,12,Nova Scotia / Nouvelle-Écosse,56.25705594
+B1J,12,Nova Scotia / Nouvelle-Écosse,293.7791791
+B1K,12,Nova Scotia / Nouvelle-Écosse,875.0120195
+B1L,12,Nova Scotia / Nouvelle-Écosse,196.1958842
+B1M,12,Nova Scotia / Nouvelle-Écosse,51.47808007
+B1N,12,Nova Scotia / Nouvelle-Écosse,60.84030894
+B1P,12,Nova Scotia / Nouvelle-Écosse,46.1973051
+B1R,12,Nova Scotia / Nouvelle-Écosse,27.48101781
+B1S,12,Nova Scotia / Nouvelle-Écosse,16.71070679
+B1T,12,Nova Scotia / Nouvelle-Écosse,188.6737132
+B1V,12,Nova Scotia / Nouvelle-Écosse,12.68488019
+A1G,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,10.88570472
+A1H,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,165.1480022
+A1K,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,90.79565061
+A1L,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,32.42441858
+A1M,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,66.98319076
+A1N,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,16.00213105
+A1S,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,173.9838814
+A0A,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,4700.530957
+A0B,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,5530.376314
+A0C,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,3530.041262
+A0E,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,6182.483546
+A0G,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,17147.27233
+A0H,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,19944.31119
+A0J,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1919.465365
+A0K,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,62409.66378
+A0L,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1566.579364
+A0M,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,3808.978511
+A0N,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,13073.52687
+A0P,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,163599.9342
+A0R,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,81089.95476
+A1A,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,44.58678726
+A1B,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,53.67306286
+A1C,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,4.144976045
+A1E,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,14.55576376
+A1V,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,109.1972157
+A1W,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,24.53133321
+A1X,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,37.43808311
+A1Y,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,145.6365961
+A2A,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,27.06046703
+A2B,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,4453.075576
+A2H,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1723.42119
+A2N,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,53.54784876
+A2V,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,38.59087319
+A5A,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,450.8793108
+A8A,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,5358.081805
+B0C,12,Nova Scotia / Nouvelle-Écosse,1684.666553
+B0E,12,Nova Scotia / Nouvelle-Écosse,6299.407793
+B0H,12,Nova Scotia / Nouvelle-Écosse,2819.364719
+B0J,12,Nova Scotia / Nouvelle-Écosse,5757.56021
+B0K,12,Nova Scotia / Nouvelle-Écosse,3639.231779
+B0L,12,Nova Scotia / Nouvelle-Écosse,227.1175269
+B0M,12,Nova Scotia / Nouvelle-Écosse,4026.962908
+B0N,12,Nova Scotia / Nouvelle-Écosse,5369.443881
+B0P,12,Nova Scotia / Nouvelle-Écosse,2018.332929
+B0R,12,Nova Scotia / Nouvelle-Écosse,1121.036139
+B0S,12,Nova Scotia / Nouvelle-Écosse,3178.607305
+B0T,12,Nova Scotia / Nouvelle-Écosse,4664.409685
+B0V,12,Nova Scotia / Nouvelle-Écosse,328.2305012
+B0W,12,Nova Scotia / Nouvelle-Écosse,4852.801794
+B1A,12,Nova Scotia / Nouvelle-Écosse,31.69137181
+B1B,12,Nova Scotia / Nouvelle-Écosse,166.5209643
+B1C,12,Nova Scotia / Nouvelle-Écosse,258.6042706
+B3B,12,Nova Scotia / Nouvelle-Écosse,3.896234693
+B3H,12,Nova Scotia / Nouvelle-Écosse,6.895492875
+B3J,12,Nova Scotia / Nouvelle-Écosse,0.982176824
+B3K,12,Nova Scotia / Nouvelle-Écosse,6.790917014
+B3L,12,Nova Scotia / Nouvelle-Écosse,4.61649589
+B3M,12,Nova Scotia / Nouvelle-Écosse,11.91997917
+B3R,12,Nova Scotia / Nouvelle-Écosse,15.92176861
+B3S,12,Nova Scotia / Nouvelle-Écosse,4.003085188
+B3T,12,Nova Scotia / Nouvelle-Écosse,242.7612169
+B3V,12,Nova Scotia / Nouvelle-Écosse,142.774842
+B3Z,12,Nova Scotia / Nouvelle-Écosse,570.0325669
+B4A,12,Nova Scotia / Nouvelle-Écosse,23.65353148
+B4B,12,Nova Scotia / Nouvelle-Écosse,193.1351523
+B4C,12,Nova Scotia / Nouvelle-Écosse,41.94272452
+B4E,12,Nova Scotia / Nouvelle-Écosse,49.36450993
+B4H,12,Nova Scotia / Nouvelle-Écosse,767.4215435
+B4N,12,Nova Scotia / Nouvelle-Écosse,366.395619
+B4G,12,Nova Scotia / Nouvelle-Écosse,131.5418143
+B4P,12,Nova Scotia / Nouvelle-Écosse,238.4480384
+B4R,12,Nova Scotia / Nouvelle-Écosse,8.176814212
+B4V,12,Nova Scotia / Nouvelle-Écosse,722.0838264
+B5A,12,Nova Scotia / Nouvelle-Écosse,658.5310929
+B6L,12,Nova Scotia / Nouvelle-Écosse,1137.092837
+B9A,12,Nova Scotia / Nouvelle-Écosse,81.4251065
+C0A,11,Prince Edward Island / Île-du-Prince-Édouard,3431.628688
+C0B,11,Prince Edward Island / Île-du-Prince-Édouard,2110.718098
+C1B,11,Prince Edward Island / Île-du-Prince-Édouard,166.8393914
+C1A,11,Prince Edward Island / Île-du-Prince-Édouard,24.13889079
+C1C,11,Prince Edward Island / Île-du-Prince-Édouard,30.73595443
+C1E,11,Prince Edward Island / Île-du-Prince-Édouard,164.9903715
+C1N,11,Prince Edward Island / Île-du-Prince-Édouard,93.95159493
+E1A,13,New Brunswick / Nouveau-Brunswick,82.14830661
+E1B,13,New Brunswick / Nouveau-Brunswick,40.19099546
+E1C,13,New Brunswick / Nouveau-Brunswick,14.3503342
+B1W,12,Nova Scotia / Nouvelle-Écosse,37.05411298
+B1X,12,Nova Scotia / Nouvelle-Écosse,242.189598
+B1Y,12,Nova Scotia / Nouvelle-Écosse,246.8361411
+B2A,12,Nova Scotia / Nouvelle-Écosse,84.54506277
+B2C,12,Nova Scotia / Nouvelle-Écosse,176.8507762
+B2E,12,Nova Scotia / Nouvelle-Écosse,99.84739378
+B2G,12,Nova Scotia / Nouvelle-Écosse,1037.736362
+B2H,12,Nova Scotia / Nouvelle-Écosse,321.1469728
+B2J,12,Nova Scotia / Nouvelle-Écosse,123.9865089
+B2N,12,Nova Scotia / Nouvelle-Écosse,56.243446
+B2R,12,Nova Scotia / Nouvelle-Écosse,64.97082578
+B2S,12,Nova Scotia / Nouvelle-Écosse,330.3814704
+B2T,12,Nova Scotia / Nouvelle-Écosse,602.886869
+B2V,12,Nova Scotia / Nouvelle-Écosse,12.36418385
+B2W,12,Nova Scotia / Nouvelle-Écosse,25.10199024
+B2Z,12,Nova Scotia / Nouvelle-Écosse,138.4646141
+B3A,12,Nova Scotia / Nouvelle-Écosse,27.33631082
+B3E,12,Nova Scotia / Nouvelle-Écosse,115.430554
+B3G,12,Nova Scotia / Nouvelle-Écosse,34.4554045
+B3N,12,Nova Scotia / Nouvelle-Écosse,10.21968823
+B3P,12,Nova Scotia / Nouvelle-Écosse,13.1781337
+B2X,12,Nova Scotia / Nouvelle-Écosse,14.82167485
+B2Y,12,Nova Scotia / Nouvelle-Écosse,7.686434898
+E1E,13,New Brunswick / Nouveau-Brunswick,37.01500816
+E1J,13,New Brunswick / Nouveau-Brunswick,179.2948651
+E1N,13,New Brunswick / Nouveau-Brunswick,863.2309436
+E1V,13,New Brunswick / Nouveau-Brunswick,948.1864509
+E1W,13,New Brunswick / Nouveau-Brunswick,178.2157592
+E1X,13,New Brunswick / Nouveau-Brunswick,469.4647137
+E2A,13,New Brunswick / Nouveau-Brunswick,1975.02092
+E2E,13,New Brunswick / Nouveau-Brunswick,27.06686825
+E2G,13,New Brunswick / Nouveau-Brunswick,34.83506793
+E2H,13,New Brunswick / Nouveau-Brunswick,24.90608783
+E2J,13,New Brunswick / Nouveau-Brunswick,32.72622977
+E2K,13,New Brunswick / Nouveau-Brunswick,45.32121774
+E2L,13,New Brunswick / Nouveau-Brunswick,2.457105901
+E2M,13,New Brunswick / Nouveau-Brunswick,151.6339988
+E2N,13,New Brunswick / Nouveau-Brunswick,100.5009873
+E2P,13,New Brunswick / Nouveau-Brunswick,28.6117973
+E2S,13,New Brunswick / Nouveau-Brunswick,336.7411725
+E3A,13,New Brunswick / Nouveau-Brunswick,1196.834862
+E3B,13,New Brunswick / Nouveau-Brunswick,561.1290478
+E3C,13,New Brunswick / Nouveau-Brunswick,132.9094587
+E3E,13,New Brunswick / Nouveau-Brunswick,303.9256375
+E3G,13,New Brunswick / Nouveau-Brunswick,235.2970495
+E3L,13,New Brunswick / Nouveau-Brunswick,382.9077634
+E3N,13,New Brunswick / Nouveau-Brunswick,1532.400216
+E2V,13,New Brunswick / Nouveau-Brunswick,303.3975554
+E3V,13,New Brunswick / Nouveau-Brunswick,90.538482
+E3Y,13,New Brunswick / Nouveau-Brunswick,1187.586149
+E3Z,13,New Brunswick / Nouveau-Brunswick,174.7793379
+E4A,13,New Brunswick / Nouveau-Brunswick,1367.196849
+E4B,13,New Brunswick / Nouveau-Brunswick,618.3297311
+E4W,13,New Brunswick / Nouveau-Brunswick,633.0751675
+E4X,13,New Brunswick / Nouveau-Brunswick,270.5458109
+E4Y,13,New Brunswick / Nouveau-Brunswick,679.2058824
+E4Z,13,New Brunswick / Nouveau-Brunswick,2563.655138
+E5A,13,New Brunswick / Nouveau-Brunswick,927.8912443
+E5B,13,New Brunswick / Nouveau-Brunswick,373.8510332
+E5C,13,New Brunswick / Nouveau-Brunswick,559.4135927
+E5E,13,New Brunswick / Nouveau-Brunswick,41.2942224
+E5G,13,New Brunswick / Nouveau-Brunswick,165.793239
+E5H,13,New Brunswick / Nouveau-Brunswick,397.3097639
+E5J,13,New Brunswick / Nouveau-Brunswick,501.9817878
+E5K,13,New Brunswick / Nouveau-Brunswick,683.1004201
+E5L,13,New Brunswick / Nouveau-Brunswick,1637.460292
+E5M,13,New Brunswick / Nouveau-Brunswick,676.9988515
+E5N,13,New Brunswick / Nouveau-Brunswick,652.9472813
+E5P,13,New Brunswick / Nouveau-Brunswick,327.3848997
+E5R,13,New Brunswick / Nouveau-Brunswick,654.8659609
+E5S,13,New Brunswick / Nouveau-Brunswick,177.6583729
+E5T,13,New Brunswick / Nouveau-Brunswick,534.9400379
+E5V,13,New Brunswick / Nouveau-Brunswick,39.60120336
+E6A,13,New Brunswick / Nouveau-Brunswick,2402.915422
+E6B,13,New Brunswick / Nouveau-Brunswick,1677.303411
+E6C,13,New Brunswick / Nouveau-Brunswick,578.1434601
+E6E,13,New Brunswick / Nouveau-Brunswick,320.9291132
+E6G,13,New Brunswick / Nouveau-Brunswick,618.3719793
+E6H,13,New Brunswick / Nouveau-Brunswick,1075.274062
+E6J,13,New Brunswick / Nouveau-Brunswick,599.4375704
+E6K,13,New Brunswick / Nouveau-Brunswick,922.4434005
+E6L,13,New Brunswick / Nouveau-Brunswick,750.908428
+E7B,13,New Brunswick / Nouveau-Brunswick,668.5620401
+E7C,13,New Brunswick / Nouveau-Brunswick,1083.300165
+E7A,13,New Brunswick / Nouveau-Brunswick,625.9729937
+E7E,13,New Brunswick / Nouveau-Brunswick,932.5167313
+E7G,13,New Brunswick / Nouveau-Brunswick,3842.498283
+E7H,13,New Brunswick / Nouveau-Brunswick,607.8562693
+E7J,13,New Brunswick / Nouveau-Brunswick,796.7729345
+E7K,13,New Brunswick / Nouveau-Brunswick,319.4357366
+E7L,13,New Brunswick / Nouveau-Brunswick,744.2862675
+E7M,13,New Brunswick / Nouveau-Brunswick,454.0346382
+E7N,13,New Brunswick / Nouveau-Brunswick,435.6457478
+E7P,13,New Brunswick / Nouveau-Brunswick,677.6194673
+E8A,13,New Brunswick / Nouveau-Brunswick,2510.109142
+E8B,13,New Brunswick / Nouveau-Brunswick,2082.749729
+E4E,13,New Brunswick / Nouveau-Brunswick,687.9404997
+E4G,13,New Brunswick / Nouveau-Brunswick,449.6394017
+E4C,13,New Brunswick / Nouveau-Brunswick,657.1584972
+E4H,13,New Brunswick / Nouveau-Brunswick,1068.628493
+E4J,13,New Brunswick / Nouveau-Brunswick,213.1400159
+E4K,13,New Brunswick / Nouveau-Brunswick,286.5214714
+E4L,13,New Brunswick / Nouveau-Brunswick,723.5708877
+E4M,13,New Brunswick / Nouveau-Brunswick,458.4574685
+E4N,13,New Brunswick / Nouveau-Brunswick,119.1099087
+E4P,13,New Brunswick / Nouveau-Brunswick,386.1929311
+E4R,13,New Brunswick / Nouveau-Brunswick,146.8027476
+E4S,13,New Brunswick / Nouveau-Brunswick,414.3652938
+E4T,13,New Brunswick / Nouveau-Brunswick,2303.474634
+E4V,13,New Brunswick / Nouveau-Brunswick,191.0434509
+E1G,13,New Brunswick / Nouveau-Brunswick,460.6389216
+E1H,13,New Brunswick / Nouveau-Brunswick,296.4209211
+G1M,24,Quebec / Québec,11.08096995
+G1N,24,Quebec / Québec,2.606831478
+G1P,24,Quebec / Québec,11.82290075
+G1R,24,Quebec / Québec,3.080959395
+G1S,24,Quebec / Québec,5.103696302
+G1T,24,Quebec / Québec,4.890628857
+G1V,24,Quebec / Québec,8.475482867
+G1W,24,Quebec / Québec,8.3501409
+E8C,13,New Brunswick / Nouveau-Brunswick,17.76013402
+E8E,13,New Brunswick / Nouveau-Brunswick,1246.54953
+E8G,13,New Brunswick / Nouveau-Brunswick,1373.952904
+E8J,13,New Brunswick / Nouveau-Brunswick,176.1739142
+E8K,13,New Brunswick / Nouveau-Brunswick,334.5377627
+E8L,13,New Brunswick / Nouveau-Brunswick,664.3765198
+E8M,13,New Brunswick / Nouveau-Brunswick,198.6290713
+E8N,13,New Brunswick / Nouveau-Brunswick,79.21623126
+E8P,13,New Brunswick / Nouveau-Brunswick,214.9897827
+E8R,13,New Brunswick / Nouveau-Brunswick,232.410084
+E8S,13,New Brunswick / Nouveau-Brunswick,64.69773098
+E8T,13,New Brunswick / Nouveau-Brunswick,195.1888565
+E9A,13,New Brunswick / Nouveau-Brunswick,692.1944492
+E9B,13,New Brunswick / Nouveau-Brunswick,586.4098908
+E9C,13,New Brunswick / Nouveau-Brunswick,1531.361943
+E9E,13,New Brunswick / Nouveau-Brunswick,6417.278686
+E9G,13,New Brunswick / Nouveau-Brunswick,470.6936762
+E9H,13,New Brunswick / Nouveau-Brunswick,280.615752
+G0A,24,Quebec / Québec,15516.92522
+G0C,24,Quebec / Québec,10477.7912
+G0E,24,Quebec / Québec,2298.947183
+G0G,24,Quebec / Québec,192867.4412
+G0H,24,Quebec / Québec,3214.91551
+G0J,24,Quebec / Québec,12005.65718
+G0K,24,Quebec / Québec,3712.528299
+G0L,24,Quebec / Québec,8308.096762
+G0M,24,Quebec / Québec,3118.311092
+G0N,24,Quebec / Québec,1795.181187
+G0P,24,Quebec / Québec,942.2810426
+G0R,24,Quebec / Québec,7308.762664
+G0S,24,Quebec / Québec,3541.149005
+G0T,24,Quebec / Québec,12785.95272
+G0V,24,Quebec / Québec,42929.04009
+G0W,24,Quebec / Québec,24870.2285
+G0X,24,Quebec / Québec,33649.6294
+G0Y,24,Quebec / Québec,1925.311769
+G0Z,24,Quebec / Québec,642.9615822
+G1B,24,Quebec / Québec,43.32644546
+G1C,24,Quebec / Québec,21.81767192
+G1E,24,Quebec / Québec,11.33747158
+G1G,24,Quebec / Québec,9.911745218
+G1H,24,Quebec / Québec,8.939600428
+G1J,24,Quebec / Québec,6.837787192
+G1K,24,Quebec / Québec,4.449898935
+G1L,24,Quebec / Québec,4.138818315
+G1X,24,Quebec / Québec,12.77568785
+G1Y,24,Quebec / Québec,6.782623283
+G2A,24,Quebec / Québec,22.37460524
+G2B,24,Quebec / Québec,14.92535728
+G2C,24,Quebec / Québec,7.81364001
+G2E,24,Quebec / Québec,9.327867455
+G2G,24,Quebec / Québec,52.5547602
+G2J,24,Quebec / Québec,0.709471454
+G2K,24,Quebec / Québec,16.75923285
+G3B,24,Quebec / Québec,64.74668651
+G3C,24,Quebec / Québec,699.4006596
+G3E,24,Quebec / Québec,8.584548538
+G3G,24,Quebec / Québec,38.21823363
+G3H,24,Quebec / Québec,125.2391686
+G3J,24,Quebec / Québec,42.38565273
+G3K,24,Quebec / Québec,29.3327941
+G3L,24,Quebec / Québec,1297.270572
+G3Z,24,Quebec / Québec,564.0172473
+G4R,24,Quebec / Québec,18648.30052
+G4S,24,Quebec / Québec,129.0283177
+G4T,24,Quebec / Québec,241.6811007
+G3M,24,Quebec / Québec,21.02842083
+G3N,24,Quebec / Québec,183.6229807
+G4A,24,Quebec / Québec,53.20294772
+G4V,24,Quebec / Québec,3756.095987
+G4W,24,Quebec / Québec,198.6202789
+G4X,24,Quebec / Québec,1156.745845
+G4Z,24,Quebec / Québec,37678.63545
+G5A,24,Quebec / Québec,466.8193142
+G5B,24,Quebec / Québec,41.94955091
+G5C,24,Quebec / Québec,44.08541197
+G2L,24,Quebec / Québec,12.01075212
+G2M,24,Quebec / Québec,23.13626464
+G2N,24,Quebec / Québec,13.7374279
+G3A,24,Quebec / Québec,88.05536464
+G6C,24,Quebec / Québec,88.17108026
+G6J,24,Quebec / Québec,98.45346462
+G6K,24,Quebec / Québec,3.938855396
+G6L,24,Quebec / Québec,351.0320462
+G6P,24,Quebec / Québec,31.24967805
+G6R,24,Quebec / Québec,19.32577923
+G6S,24,Quebec / Québec,63.84617796
+G6T,24,Quebec / Québec,45.07263825
+G6V,24,Quebec / Québec,25.72559426
+G6W,24,Quebec / Québec,24.34059151
+G6X,24,Quebec / Québec,8.738555565
+G6Y,24,Quebec / Québec,17.67135626
+G7A,24,Quebec / Québec,97.30029668
+G7H,24,Quebec / Québec,160.2281194
+G7P,24,Quebec / Québec,235.3915234
+G7S,24,Quebec / Québec,42.50894713
+G9A,24,Quebec / Québec,40.38805677
+G9B,24,Quebec / Québec,85.25792093
+G9H,24,Quebec / Québec,456.6707414
+G9N,24,Quebec / Québec,50.80371652
+G9T,24,Quebec / Québec,70.04699515
+G9X,24,Quebec / Québec,8139.826567
+H0M,24,Quebec / Québec,19.72224685
+H1A,24,Quebec / Québec,15.67745405
+G6Z,24,Quebec / Québec,99.54590796
+G7B,24,Quebec / Québec,325.7099088
+G7G,24,Quebec / Québec,22.80327922
+G7J,24,Quebec / Québec,18.69237618
+G7K,24,Quebec / Québec,11.84272272
+G7N,24,Quebec / Québec,244.7905519
+G7T,24,Quebec / Québec,2.443078511
+G7X,24,Quebec / Québec,331.8943114
+G7Y,24,Quebec / Québec,34.15810987
+G7Z,24,Quebec / Québec,2.375055154
+G8A,24,Quebec / Québec,5.733757738
+G8B,24,Quebec / Québec,115.2082818
+G8C,24,Quebec / Québec,6.460582504
+G8E,24,Quebec / Québec,113.012711
+G8G,24,Quebec / Québec,235.4942234
+G8H,24,Quebec / Québec,184.4325569
+G8J,24,Quebec / Québec,16399.08811
+G8K,24,Quebec / Québec,399.8312393
+G8L,24,Quebec / Québec,17621.88773
+G8M,24,Quebec / Québec,420.1961362
+G8N,24,Quebec / Québec,1155.081196
+G8P,24,Quebec / Québec,1006.178338
+G8T,24,Quebec / Québec,16.56699218
+G8V,24,Quebec / Québec,40.92041647
+G5H,24,Quebec / Québec,56.42220973
+G5J,24,Quebec / Québec,127.1898026
+G5L,24,Quebec / Québec,59.26720523
+G5M,24,Quebec / Québec,22.88490028
+G5N,24,Quebec / Québec,181.6734178
+G5Y,24,Quebec / Québec,98.44421412
+G5Z,24,Quebec / Québec,101.5737528
+G5R,24,Quebec / Québec,85.79253354
+G5T,24,Quebec / Québec,574.3098178
+G5V,24,Quebec / Québec,127.771612
+G5X,24,Quebec / Québec,170.2149405
+G6B,24,Quebec / Québec,285.5060669
+G6E,24,Quebec / Québec,111.7615925
+G6G,24,Quebec / Québec,207.3911245
+G6H,24,Quebec / Québec,222.4868988
+G6A,24,Quebec / Québec,7.211545967
+G8W,24,Quebec / Québec,65.82095989
+G8Y,24,Quebec / Québec,24.69299621
+G8Z,24,Quebec / Québec,8.697449604
+H3Z,24,Quebec / Québec,1.660225746
+G9C,24,Quebec / Québec,18.94549006
+G9P,24,Quebec / Québec,39.03744334
+H3Y,24,Quebec / Québec,2.543718613
+G9R,24,Quebec / Québec,18.82567593
+H1B,24,Quebec / Québec,13.74332824
+H1J,24,Quebec / Québec,8.66558032
+H1K,24,Quebec / Québec,6.36002847
+H1L,24,Quebec / Québec,7.758871172
+H1M,24,Quebec / Québec,5.083310051
+H1N,24,Quebec / Québec,8.978912711
+H1P,24,Quebec / Québec,5.267764298
+H1R,24,Quebec / Québec,4.768585324
+H1S,24,Quebec / Québec,3.141214458
+H1T,24,Quebec / Québec,4.258574702
+H1V,24,Quebec / Québec,5.213329028
+H1W,24,Quebec / Québec,3.236177378
+H1X,24,Quebec / Québec,2.923562854
+H1Y,24,Quebec / Québec,2.721072701
+H1Z,24,Quebec / Québec,7.157510895
+H2A,24,Quebec / Québec,2.303337231
+H1C,24,Quebec / Québec,11.50778265
+H1E,24,Quebec / Québec,11.3776908
+H1G,24,Quebec / Québec,8.081979196
+H1H,24,Quebec / Québec,4.706768405
+H3H,24,Quebec / Québec,3.852110711
+H3J,24,Quebec / Québec,1.13136363
+H3K,24,Quebec / Québec,4.579008323
+H3L,24,Quebec / Québec,3.950831448
+H3M,24,Quebec / Québec,2.67862975
+H3N,24,Quebec / Québec,1.715877047
+H3P,24,Quebec / Québec,2.81840579
+H3R,24,Quebec / Québec,2.768280984
+H3S,24,Quebec / Québec,2.930791245
+H3T,24,Quebec / Québec,1.621892651
+H3V,24,Quebec / Québec,1.847076564
+H3W,24,Quebec / Québec,3.087912116
+H3X,24,Quebec / Québec,3.565854794
+H7H,24,Quebec / Québec,6.427714865
+H7J,24,Quebec / Québec,29.85490048
+H7K,24,Quebec / Québec,11.90352162
+H7N,24,Quebec / Québec,9.318374866
+H7P,24,Quebec / Québec,16.6960836
+H7R,24,Quebec / Québec,18.15045285
+H4A,24,Quebec / Québec,3.124286164
+H4B,24,Quebec / Québec,3.190255621
+H4C,24,Quebec / Québec,4.011320306
+H4E,24,Quebec / Québec,4.723367361
+H4G,24,Quebec / Québec,2.86995858
+H4H,24,Quebec / Québec,3.224122416
+H4J,24,Quebec / Québec,2.923018954
+H4K,24,Quebec / Québec,4.558878843
+H4L,24,Quebec / Québec,6.18149488
+H4M,24,Quebec / Québec,2.364960193
+H4N,24,Quebec / Québec,5.505117081
+H4P,24,Quebec / Québec,5.226073101
+H2B,24,Quebec / Québec,2.698103236
+H2C,24,Quebec / Québec,2.750621304
+H2E,24,Quebec / Québec,1.972519211
+H2G,24,Quebec / Québec,2.065101598
+H2H,24,Quebec / Québec,1.177104662
+H2J,24,Quebec / Québec,1.996879238
+H2K,24,Quebec / Québec,3.698227258
+H2L,24,Quebec / Québec,2.483504933
+H2M,24,Quebec / Québec,3.474017835
+H2N,24,Quebec / Québec,1.159633154
+H2P,24,Quebec / Québec,1.732020829
+H2R,24,Quebec / Québec,2.256218916
+H2S,24,Quebec / Québec,2.603374403
+H2T,24,Quebec / Québec,1.401466733
+H2V,24,Quebec / Québec,4.550687798
+H2W,24,Quebec / Québec,1.01310103
+H2X,24,Quebec / Québec,1.612223584
+H2Y,24,Quebec / Québec,0.525749408
+H2Z,24,Quebec / Québec,0.296936396
+H3A,24,Quebec / Québec,1.035719403
+H3B,24,Quebec / Québec,0.089166582
+H3C,24,Quebec / Québec,4.998706411
+H3E,24,Quebec / Québec,3.912462526
+H3G,24,Quebec / Québec,0.988326666
+H7B,24,Quebec / Québec,14.03110383
+H7E,24,Quebec / Québec,18.94011416
+H7G,24,Quebec / Québec,5.898888526
+J1E,24,Quebec / Québec,19.2759519
+J1G,24,Quebec / Québec,12.38930265
+J1H,24,Quebec / Québec,25.2301463
+J1M,24,Quebec / Québec,30.12795022
+H7S,24,Quebec / Québec,9.915794666
+H7T,24,Quebec / Québec,12.08600947
+H7V,24,Quebec / Québec,5.768556068
+H7W,24,Quebec / Québec,9.999422907
+H7X,24,Quebec / Québec,13.18741242
+H7Y,24,Quebec / Québec,6.599182947
+H8N,24,Quebec / Québec,8.302126951
+H7L,24,Quebec / Québec,16.41801051
+H7M,24,Quebec / Québec,11.53415706
+H4R,24,Quebec / Québec,29.78682031
+H4S,24,Quebec / Québec,1.178983434
+H4V,24,Quebec / Québec,2.739554165
+H4W,24,Quebec / Québec,5.881670113
+H4X,24,Quebec / Québec,1.675031395
+H7A,24,Quebec / Québec,18.96997668
+H7C,24,Quebec / Québec,18.62944972
+H9P,24,Quebec / Québec,15.91427651
+H9R,24,Quebec / Québec,15.61408675
+H9S,24,Quebec / Québec,9.715639853
+H9W,24,Quebec / Québec,11.36750614
+H9X,24,Quebec / Québec,24.79481574
+J0A,24,Quebec / Québec,1366.593942
+J0B,24,Quebec / Québec,5251.756315
+J0C,24,Quebec / Québec,1120.166445
+J0E,24,Quebec / Québec,2357.804902
+J0G,24,Quebec / Québec,1096.210122
+J0H,24,Quebec / Québec,2024.439377
+J0J,24,Quebec / Québec,1574.63023
+J0K,24,Quebec / Québec,12402.61001
+J0L,24,Quebec / Québec,1322.830877
+J0M,24,Quebec / Québec,483227.1303
+J0N,24,Quebec / Québec,225.3975691
+J0P,24,Quebec / Québec,606.6098662
+J0R,24,Quebec / Québec,267.0569712
+J0S,24,Quebec / Québec,1506.993171
+J0T,24,Quebec / Québec,5918.602078
+J0V,24,Quebec / Québec,2662.76629
+J0W,24,Quebec / Québec,22176.79244
+J0X,24,Quebec / Québec,19420.88129
+J0Y,24,Quebec / Québec,362453.9643
+J0Z,24,Quebec / Québec,26552.80955
+J1A,24,Quebec / Québec,333.4483096
+J1C,24,Quebec / Québec,81.18898464
+J2K,24,Quebec / Québec,146.0552447
+J2M,24,Quebec / Québec,122.7240625
+J2N,24,Quebec / Québec,96.80865923
+J1J,24,Quebec / Québec,9.032672115
+J1K,24,Quebec / Québec,8.001424634
+J1L,24,Quebec / Québec,26.01817524
+J1N,24,Quebec / Québec,88.46153928
+J1R,24,Quebec / Québec,77.62278992
+J1S,24,Quebec / Québec,235.6438982
+J1T,24,Quebec / Québec,50.0124072
+J1X,24,Quebec / Québec,363.9786493
+H8S,24,Quebec / Québec,13.01348752
+H8P,24,Quebec / Québec,4.511560544
+H8R,24,Quebec / Québec,7.281128744
+H8T,24,Quebec / Québec,3.23897589
+H8Y,24,Quebec / Québec,5.943457104
+H8Z,24,Quebec / Québec,4.615975062
+H9A,24,Quebec / Québec,4.643480441
+H9B,24,Quebec / Québec,7.417430306
+H9C,24,Quebec / Québec,9.732953504
+H9E,24,Quebec / Québec,13.7740735
+H9G,24,Quebec / Québec,4.25260657
+H9H,24,Quebec / Québec,9.318967021
+H9J,24,Quebec / Québec,11.57933471
+H9K,24,Quebec / Québec,6.598824244
+J2C,24,Quebec / Québec,28.13426452
+J2E,24,Quebec / Québec,15.54736246
+J2G,24,Quebec / Québec,18.28153711
+J2H,24,Quebec / Québec,60.13417705
+J2J,24,Quebec / Québec,81.76219921
+J2L,24,Quebec / Québec,119.3296053
+J2R,24,Quebec / Québec,98.50422303
+J2T,24,Quebec / Québec,61.13027189
+J3B,24,Quebec / Québec,43.9733154
+J4H,24,Quebec / Québec,4.208045167
+J4J,24,Quebec / Québec,6.575833967
+J4K,24,Quebec / Québec,6.303781539
+J4L,24,Quebec / Québec,7.57236282
+J2S,24,Quebec / Québec,37.17319354
+J2W,24,Quebec / Québec,53.701114
+J2X,24,Quebec / Québec,60.79607386
+J2Y,24,Quebec / Québec,71.88502674
+J3A,24,Quebec / Québec,2.860625348
+J3E,24,Quebec / Québec,50.27494694
+J3G,24,Quebec / Québec,70.29660275
+J3H,24,Quebec / Québec,52.88646231
+J3L,24,Quebec / Québec,177.6706256
+J3M,24,Quebec / Québec,65.293507
+J3N,24,Quebec / Québec,37.94885896
+J3P,24,Quebec / Québec,79.85797442
+J3R,24,Quebec / Québec,21.89288437
+J3T,24,Quebec / Québec,100.5401391
+J3X,24,Quebec / Québec,97.28921599
+J4B,24,Quebec / Québec,72.64031835
+J4G,24,Quebec / Québec,9.360940236
+J3V,24,Quebec / Québec,45.21765109
+J3Y,24,Quebec / Québec,62.47473253
+J3Z,24,Quebec / Québec,0.776604143
+J1Z,24,Quebec / Québec,178.3402179
+J2A,24,Quebec / Québec,102.201153
+J2B,24,Quebec / Québec,116.8093796
+J5T,24,Quebec / Québec,70.50772371
+J5V,24,Quebec / Québec,65.91281972
+J5Y,24,Quebec / Québec,9.623765039
+J5Z,24,Quebec / Québec,40.65036445
+J6Z,24,Quebec / Québec,10.59340017
+J7B,24,Quebec / Québec,7.164779825
+J7C,24,Quebec / Québec,42.21150368
+J7E,24,Quebec / Québec,21.66407247
+J7G,24,Quebec / Québec,11.06399651
+J7J,24,Quebec / Québec,96.47045737
+J7N,24,Quebec / Québec,403.7320985
+J7P,24,Quebec / Québec,11.9026138
+J7R,24,Quebec / Québec,67.16739403
+J7T,24,Quebec / Québec,149.9593108
+J7V,24,Quebec / Québec,112.8415538
+J7H,24,Quebec / Québec,13.31836851
+J4M,24,Quebec / Québec,4.019305866
+J4N,24,Quebec / Québec,7.52809564
+J4P,24,Quebec / Québec,3.656852285
+J4R,24,Quebec / Québec,3.460112494
+J4S,24,Quebec / Québec,1.750081121
+J4T,24,Quebec / Québec,4.465354894
+J4V,24,Quebec / Québec,4.92124381
+J4W,24,Quebec / Québec,6.315817273
+J4X,24,Quebec / Québec,5.605357723
+J4Y,24,Quebec / Québec,18.71235997
+J4Z,24,Quebec / Québec,16.16693776
+J5A,24,Quebec / Québec,111.2447582
+J5B,24,Quebec / Québec,7.932075613
+J5C,24,Quebec / Québec,9.747787342
+J5J,24,Quebec / Québec,115.1194424
+J5K,24,Quebec / Québec,97.61728575
+J5L,24,Quebec / Québec,49.48751336
+J5M,24,Quebec / Québec,122.2710396
+J5R,24,Quebec / Québec,63.15004836
+J5W,24,Quebec / Québec,140.9212119
+J5X,24,Quebec / Québec,59.02475631
+J6A,24,Quebec / Québec,16.10517466
+L1J,35,Ontario,24.44845287
+L1N,35,Ontario,37.86776837
+J7A,24,Quebec / Québec,11.10437344
+J6K,24,Quebec / Québec,22.59928888
+J6N,24,Quebec / Québec,82.96621686
+J6R,24,Quebec / Québec,48.04623376
+J6S,24,Quebec / Québec,98.48796497
+J6T,24,Quebec / Québec,12.13596201
+J6V,24,Quebec / Québec,28.60522296
+J6W,24,Quebec / Québec,18.84033992
+J6X,24,Quebec / Québec,30.20133442
+J6Y,24,Quebec / Québec,40.24077947
+J9H,24,Quebec / Québec,25.49014252
+J9J,24,Quebec / Québec,51.64774572
+J9L,24,Quebec / Québec,646.3097326
+J9P,24,Quebec / Québec,9055.344133
+J9T,24,Quebec / Québec,440.8483538
+J7K,24,Quebec / Québec,94.08488264
+J7L,24,Quebec / Québec,16.54578495
+J7M,24,Quebec / Québec,40.83933975
+J7W,24,Quebec / Québec,7.329708408
+J7X,24,Quebec / Québec,12.118016
+J7Y,24,Quebec / Québec,25.31921476
+J7Z,24,Quebec / Québec,19.20504711
+J8A,24,Quebec / Québec,135.5232015
+J8B,24,Quebec / Québec,128.0724277
+J8C,24,Quebec / Québec,179.2241303
+J6E,24,Quebec / Québec,72.93806158
+J6J,24,Quebec / Québec,15.90031408
+J8X,24,Quebec / Québec,8.344252597
+J8Y,24,Quebec / Québec,8.179717312
+J8Z,24,Quebec / Québec,9.072809777
+J9A,24,Quebec / Québec,42.79989485
+J9B,24,Quebec / Québec,125.262322
+J9E,24,Quebec / Québec,601.2739293
+K1R,35,Ontario,4.40282603
+K1S,35,Ontario,7.220786558
+K1T,35,Ontario,47.94693128
+K1V,35,Ontario,36.70619063
+J9V,24,Quebec / Québec,142.5492352
+J9X,24,Quebec / Québec,120.3395202
+J9Y,24,Quebec / Québec,1429.161916
+J9Z,24,Quebec / Québec,152.9685441
+K0A,35,Ontario,3521.013557
+K0B,35,Ontario,1329.578301
+K0C,35,Ontario,2516.071294
+K0E,35,Ontario,2234.409999
+K0G,35,Ontario,2805.867983
+K0H,35,Ontario,6132.969049
+K0J,35,Ontario,7826.572376
+K0K,35,Ontario,5969.672901
+K0L,35,Ontario,7999.87079
+K0M,35,Ontario,5352.162671
+K1B,35,Ontario,10.75806952
+K1C,35,Ontario,19.59731856
+K1E,35,Ontario,6.493528002
+J8E,24,Quebec / Québec,282.8977365
+J8G,24,Quebec / Québec,523.2432118
+J8H,24,Quebec / Québec,213.6915714
+J8L,24,Quebec / Québec,654.8798341
+J8M,24,Quebec / Québec,67.85250314
+J8N,24,Quebec / Québec,697.1120888
+J8R,24,Quebec / Québec,92.00725321
+J8V,24,Quebec / Québec,152.4104693
+J8P,24,Quebec / Québec,36.21923436
+J8T,24,Quebec / Québec,20.07548232
+K1K,35,Ontario,16.56367112
+K1L,35,Ontario,3.593553054
+K1M,35,Ontario,3.157541033
+K1N,35,Ontario,5.05530836
+K1P,35,Ontario,0.448921267
+K8P,35,Ontario,12.74154769
+K8R,35,Ontario,11.12066689
+K1W,35,Ontario,10.337249
+K1X,35,Ontario,24.94395828
+K1Y,35,Ontario,7.17010459
+K1Z,35,Ontario,7.814757329
+K2A,35,Ontario,6.360737817
+K2B,35,Ontario,11.3975361
+K2C,35,Ontario,14.87982447
+K2E,35,Ontario,11.36354103
+K2G,35,Ontario,29.65853539
+K2H,35,Ontario,33.27216668
+K2J,35,Ontario,50.34138527
+K2K,35,Ontario,15.89404746
+K2L,35,Ontario,6.680354115
+K2M,35,Ontario,9.458835875
+K2P,35,Ontario,1.37461311
+K2R,35,Ontario,52.35355537
+K1G,35,Ontario,37.03564135
+K1H,35,Ontario,7.521569959
+K1J,35,Ontario,15.8805961
+K6K,35,Ontario,13.24562374
+K6T,35,Ontario,25.72253117
+K6V,35,Ontario,199.0839845
+K7A,35,Ontario,475.0412768
+K7C,35,Ontario,202.4683239
+K7G,35,Ontario,108.0738642
+K7H,35,Ontario,711.5179869
+K7K,35,Ontario,32.2486427
+K7L,35,Ontario,155.7948297
+K7M,35,Ontario,48.32116433
+K7N,35,Ontario,4.219318597
+K7P,35,Ontario,31.19117978
+K7R,35,Ontario,351.4153425
+K7S,35,Ontario,136.8121452
+K7V,35,Ontario,713.5646392
+K8A,35,Ontario,677.9728634
+K8B,35,Ontario,4.132660686
+K8H,35,Ontario,185.6354611
+K8N,35,Ontario,211.0001697
+K8V,35,Ontario,163.7800095
+K9A,35,Ontario,187.9117918
+K9J,35,Ontario,278.6025127
+K9V,35,Ontario,275.9325769
+L0A,35,Ontario,695.2246704
+L0B,35,Ontario,565.7437026
+L0C,35,Ontario,362.9059192
+L0E,35,Ontario,612.1358852
+L0G,35,Ontario,672.5637668
+L0H,35,Ontario,78.96836868
+L0K,35,Ontario,2156.450872
+L0L,35,Ontario,1427.859
+L0M,35,Ontario,954.3511713
+L0N,35,Ontario,415.7164061
+L0P,35,Ontario,290.0104462
+S7H,47,Saskatchewan,13.61545336
+S7J,47,Saskatchewan,10.26979574
+S7K,47,Saskatchewan,1238.526993
+S7L,47,Saskatchewan,23.29738594
+T5G,48,Alberta,8.830362971
+K9H,35,Ontario,25.60978729
+K9K,35,Ontario,10.61307246
+K9L,35,Ontario,28.47501749
+L0J,35,Ontario,48.5788164
+L0R,35,Ontario,1207.444692
+L0S,35,Ontario,660.293642
+L1A,35,Ontario,210.3211277
+L1B,35,Ontario,77.23049933
+L1C,35,Ontario,195.5482377
+L1E,35,Ontario,23.18110224
+L1G,35,Ontario,20.81219733
+L1H,35,Ontario,75.12776631
+K2S,35,Ontario,137.6858789
+K2T,35,Ontario,12.1497076
+K2V,35,Ontario,1.425518649
+K2W,35,Ontario,72.84474145
+K4A,35,Ontario,28.43780949
+K4B,35,Ontario,166.180872
+K4C,35,Ontario,43.62122698
+K4K,35,Ontario,67.57168025
+K4M,35,Ontario,51.97101575
+K4P,35,Ontario,63.13028807
+K4R,35,Ontario,91.65939067
+K6A,35,Ontario,90.85149947
+K6H,35,Ontario,80.18867065
+K6J,35,Ontario,26.53696394
+L1K,35,Ontario,15.23712412
+L1L,35,Ontario,18.00362337
+L1M,35,Ontario,34.27600361
+L2A,35,Ontario,45.26527703
+L2E,35,Ontario,65.21752957
+L2G,35,Ontario,33.47952829
+L8G,35,Ontario,9.283909494
+L8L,35,Ontario,29.69748379
+L8M,35,Ontario,3.45348859
+L8N,35,Ontario,6.909270325
+L4X,35,Ontario,6.71651316
+L4Y,35,Ontario,8.584008534
+L4Z,35,Ontario,10.44437065
+L5A,35,Ontario,8.65120014
+N1P,35,Ontario,2.454424201
+N1R,35,Ontario,191.1998186
+M1P,35,Ontario,11.83737298
+M1R,35,Ontario,10.92620143
+M6C,35,Ontario,3.166853474
+M6E,35,Ontario,5.253500192
+M6G,35,Ontario,4.007948271
+L8S,35,Ontario,8.404693014
+L8T,35,Ontario,6.600223647
+L8V,35,Ontario,5.819916411
+N1S,35,Ontario,10.33153251
+N1T,35,Ontario,20.84890945
+N2A,35,Ontario,14.58668454
+N2B,35,Ontario,8.138156895
+L2M,35,Ontario,17.30420232
+L2N,35,Ontario,15.04686426
+L2P,35,Ontario,9.518655468
+L2R,35,Ontario,66.78443272
+L3B,35,Ontario,166.1125857
+L3C,35,Ontario,25.81448622
+L3K,35,Ontario,109.7197148
+L3M,35,Ontario,72.71109244
+L3P,35,Ontario,46.41389519
+L3R,35,Ontario,20.55714226
+L3S,35,Ontario,16.18709248
+L3T,35,Ontario,25.50524643
+L3V,35,Ontario,588.8244816
+L3Y,35,Ontario,83.16889101
+L3Z,35,Ontario,185.4716068
+L4A,35,Ontario,151.9785369
+L4H,35,Ontario,67.49672576
+L4J,35,Ontario,23.5680019
+L4K,35,Ontario,34.52845105
+L4L,35,Ontario,49.29864118
+L4M,35,Ontario,134.3536491
+L4P,35,Ontario,282.6814827
+L4R,35,Ontario,115.3962298
+L7P,35,Ontario,99.79472275
+L8E,35,Ontario,34.97643834
+V8V,59,British Columbia / Colombie-Britannique,4.62652618
+V9M,59,British Columbia / Colombie-Britannique,28.91248788
+V9Y,59,British Columbia / Colombie-Britannique,1855.362976
+V9Z,59,British Columbia / Colombie-Britannique,151.2758833
+X0A,62,Nunavut,1501517.928
+X0B,62,Nunavut,999.5266388
+X0C,62,Nunavut,508049.2063
+X0E,61,Northwest Territories / Territoires du Nord-Ouest,1274808.06
+X0G,61,Northwest Territories / Territoires du Nord-Ouest,69.79934099
+X1A,61,Northwest Territories / Territoires du Nord-Ouest,2340.9651
+Y0A,60,Yukon,152518.04
+Y0B,60,Yukon,295669.0629
+M4K,35,Ontario,4.318450661
+M4L,35,Ontario,4.639345866
+M4M,35,Ontario,9.425192169
+L5V,35,Ontario,12.55158924
+M6M,35,Ontario,8.799104643
+M6N,35,Ontario,8.79127912
+M6P,35,Ontario,4.370932657
+M8W,35,Ontario,7.295470579
+M8X,35,Ontario,3.103276608
+M8Y,35,Ontario,5.773173558
+M4A,35,Ontario,4.723357649
+M4B,35,Ontario,5.185724144
+M4C,35,Ontario,5.21876086
+L5W,35,Ontario,20.56072781
+N2K,35,Ontario,22.0934996
+N2L,35,Ontario,16.78722229
+L6S,35,Ontario,44.08707341
+L6T,35,Ontario,20.26215544
+L6V,35,Ontario,9.125144145
+L6W,35,Ontario,16.22424033
+L7E,35,Ontario,144.2688595
+L7J,35,Ontario,140.3986385
+L7N,35,Ontario,6.895312196
+M9B,35,Ontario,14.00111172
+M9C,35,Ontario,15.09304639
+L5B,35,Ontario,10.92114201
+L5C,35,Ontario,12.92166645
+L5E,35,Ontario,8.488268687
+L5G,35,Ontario,7.505437282
+L5H,35,Ontario,11.93349546
+L5N,35,Ontario,34.57542449
+L9G,35,Ontario,96.28294785
+L9H,35,Ontario,67.3388286
+N2M,35,Ontario,10.6043904
+N2N,35,Ontario,10.73384886
+L9K,35,Ontario,8.000483187
+M1S,35,Ontario,13.60041782
+M1T,35,Ontario,6.433333924
+M1V,35,Ontario,14.95724681
+M2J,35,Ontario,10.6032234
+M2M,35,Ontario,8.008415731
+N2C,35,Ontario,14.11874652
+N2E,35,Ontario,13.35615024
+N2G,35,Ontario,6.247918384
+L9L,35,Ontario,273.338395
+L9M,35,Ontario,258.5897109
+L9S,35,Ontario,164.21317
+L9T,35,Ontario,172.4951343
+L9V,35,Ontario,384.4686203
+L9W,35,Ontario,790.5197772
+L9Y,35,Ontario,195.407298
+M1B,35,Ontario,37.47090186
+M1E,35,Ontario,16.33970127
+M1G,35,Ontario,9.496477582
+M1J,35,Ontario,6.438186808
+M1M,35,Ontario,9.495943662
+M2K,35,Ontario,6.010941959
+M2L,35,Ontario,6.440259459
+M4N,35,Ontario,5.129267725
+L2S,35,Ontario,11.53161312
+L2T,35,Ontario,11.90031979
+L2V,35,Ontario,26.88938686
+L2W,35,Ontario,0.964030917
+L3X,35,Ontario,19.47432994
+L4B,35,Ontario,16.37740265
+L4C,35,Ontario,24.70261333
+L8W,35,Ontario,7.436942806
+L9A,35,Ontario,7.570907262
+L9B,35,Ontario,14.38209036
+M4P,35,Ontario,2.132200985
+M4R,35,Ontario,1.943593771
+M4S,35,Ontario,3.228262216
+M4T,35,Ontario,1.758709561
+L6A,35,Ontario,64.66217502
+M6R,35,Ontario,2.461714295
+M6S,35,Ontario,8.881809268
+M8V,35,Ontario,6.979064865
+M8Z,35,Ontario,9.225776863
+M9A,35,Ontario,10.65170309
+M9L,35,Ontario,8.336338518
+M4E,35,Ontario,3.901196726
+M4G,35,Ontario,6.898774812
+M4H,35,Ontario,1.157615935
+L6B,35,Ontario,35.00746777
+V2X,59,British Columbia / Colombie-Britannique,24.12657571
+L6X,35,Ontario,27.28044731
+L6Y,35,Ontario,39.82406321
+L6Z,35,Ontario,16.76841221
+L7A,35,Ontario,35.39714345
+L7B,35,Ontario,187.8351641
+L7C,35,Ontario,308.891007
+L7G,35,Ontario,133.9122766
+L7K,35,Ontario,275.0114525
+L7L,35,Ontario,25.89993599
+L7M,35,Ontario,39.49748686
+L5J,35,Ontario,18.77064701
+L5K,35,Ontario,6.394091331
+L5L,35,Ontario,19.12010831
+L5M,35,Ontario,26.18999173
+L5R,35,Ontario,9.79025929
+V2Y,59,British Columbia / Colombie-Britannique,41.58940529
+V5E,59,British Columbia / Colombie-Britannique,7.697639375
+V5G,59,British Columbia / Colombie-Britannique,11.92321398
+M1W,35,Ontario,8.787367484
+M1X,35,Ontario,7.430746728
+M2H,35,Ontario,8.045320489
+M2N,35,Ontario,10.01127856
+M2P,35,Ontario,3.01778688
+N2H,35,Ontario,12.11378905
+N2J,35,Ontario,43.6314459
+V5H,59,British Columbia / Colombie-Britannique,6.830102939
+V8S,59,British Columbia / Colombie-Britannique,7.059846372
+V8T,59,British Columbia / Colombie-Britannique,5.019250088
+N2V,35,Ontario,17.65130667
+N2Z,35,Ontario,296.4675366
+N3A,35,Ontario,208.9842182
+L4E,35,Ontario,54.15718515
+L4G,35,Ontario,52.47269149
+L9C,35,Ontario,13.30204228
+L9J,35,Ontario,22.55606811
+M4J,35,Ontario,5.591219092
+L6H,35,Ontario,28.07005414
+L6J,35,Ontario,19.37649955
+L6K,35,Ontario,6.492978869
+L9R,35,Ontario,107.9671949
+L9Z,35,Ontario,62.61283248
+M3C,35,Ontario,10.36856589
+M3H,35,Ontario,16.61866288
+M9M,35,Ontario,6.8261426
+M9N,35,Ontario,5.087452687
+M9P,35,Ontario,7.027988455
+M3B,35,Ontario,6.047085042
+M3L,35,Ontario,6.001930534
+M1K,35,Ontario,9.121556043
+M1L,35,Ontario,8.725578374
+M1N,35,Ontario,6.231880437
+M5A,35,Ontario,4.297526319
+M5B,35,Ontario,0.624690073
+M5C,35,Ontario,0.300004704
+M5E,35,Ontario,0.449991224
+M5G,35,Ontario,0.695156667
+M5H,35,Ontario,0.495828756
+M5J,35,Ontario,4.395574451
+M5M,35,Ontario,5.419479933
+L7R,35,Ontario,6.238009617
+L7S,35,Ontario,4.137462246
+L7T,35,Ontario,14.90175937
+L8H,35,Ontario,19.64822643
+L8J,35,Ontario,75.59411641
+L8K,35,Ontario,12.47954525
+L4T,35,Ontario,50.04056046
+L4V,35,Ontario,2.821018967
+L4W,35,Ontario,20.46352513
+L2H,35,Ontario,39.45933797
+L2J,35,Ontario,24.26377746
+M6H,35,Ontario,4.887542404
+M5V,35,Ontario,3.829652304
+M6A,35,Ontario,5.829964022
+M6B,35,Ontario,5.587296749
+M2R,35,Ontario,7.449830654
+M3A,35,Ontario,7.818048932
+N1G,35,Ontario,24.09637361
+N1H,35,Ontario,236.8101788
+N1K,35,Ontario,4.350029622
+N1L,35,Ontario,12.93480347
+N1M,35,Ontario,76.69518989
+M6J,35,Ontario,2.996187092
+M6K,35,Ontario,2.927005237
+M6L,35,Ontario,5.121688036
+N3B,35,Ontario,79.29695164
+N3C,35,Ontario,62.05795089
+N3E,35,Ontario,3.276686074
+L4N,35,Ontario,68.24089124
+L4S,35,Ontario,11.92502787
+L8P,35,Ontario,6.203745742
+L8R,35,Ontario,7.044394437
+L6L,35,Ontario,18.09421103
+L6M,35,Ontario,74.74472704
+L6P,35,Ontario,48.34152179
+L6R,35,Ontario,23.53989831
+M1C,35,Ontario,14.76146784
+M1H,35,Ontario,5.121544179
+M3J,35,Ontario,13.77168723
+M3K,35,Ontario,1.788980566
+M9R,35,Ontario,7.027198831
+M9V,35,Ontario,16.54554795
+M9W,35,Ontario,28.82785708
+N0A,35,Ontario,1099.634567
+N0B,35,Ontario,2080.596968
+N0C,35,Ontario,1369.970776
+N0E,35,Ontario,1478.49298
+N0G,35,Ontario,5876.22832
+N0H,35,Ontario,3389.796824
+N0J,35,Ontario,1663.916806
+N0K,35,Ontario,1529.621847
+N0L,35,Ontario,2301.629708
+N0M,35,Ontario,3865.320478
+N0N,35,Ontario,1671.203856
+N0P,35,Ontario,3043.144361
+N0R,35,Ontario,843.9436496
+N1A,35,Ontario,243.9908686
+N1C,35,Ontario,4.952064752
+N1E,35,Ontario,24.97191153
+M3M,35,Ontario,5.239128378
+M3N,35,Ontario,6.977298219
+T5T,48,Alberta,30.81097528
+T5V,48,Alberta,2.062439087
+T5W,48,Alberta,11.4264415
+N8M,35,Ontario,128.1449152
+N8N,35,Ontario,52.72483758
+N8P,35,Ontario,7.561196653
+N5V,35,Ontario,40.76483909
+P4R,35,Ontario,956.0521724
+N5Y,35,Ontario,10.79469632
+N5Z,35,Ontario,11.11054523
+N6A,35,Ontario,6.58415613
+N6B,35,Ontario,3.145292617
+N9A,35,Ontario,14.31631746
+N9B,35,Ontario,7.664708361
+N9C,35,Ontario,9.421845048
+P0S,35,Ontario,11171.18498
+P0T,35,Ontario,113557.5988
+P0V,35,Ontario,408432.4899
+P0W,35,Ontario,14694.50619
+P0X,35,Ontario,22353.42516
+P0Y,35,Ontario,89.85456671
+P1A,35,Ontario,50.30235895
+P1B,35,Ontario,734.2812738
+P1C,35,Ontario,6.130798962
+P1H,35,Ontario,939.2106046
+P1L,35,Ontario,685.9179114
+P1P,35,Ontario,585.6287351
+P2A,35,Ontario,1099.774213
+P2B,35,Ontario,429.0205721
+P2N,35,Ontario,22.63602876
+R3V,46,Manitoba,28.11682771
+P7E,35,Ontario,14.15893001
+P8N,35,Ontario,665.0042007
+P8T,35,Ontario,279.8246917
+P9A,35,Ontario,3645.38657
+P9N,35,Ontario,274.7780282
+R0A,46,Manitoba,7171.994555
+R0B,46,Manitoba,403606.2315
+R0C,46,Manitoba,18739.14764
+R0E,46,Manitoba,47805.78301
+R0G,46,Manitoba,9768.892734
+R0H,46,Manitoba,5641.543991
+R0J,46,Manitoba,13913.34363
+R0K,46,Manitoba,12873.83947
+R0L,46,Manitoba,70405.02046
+R0M,46,Manitoba,11300.31612
+R1A,46,Manitoba,441.0178557
+R1B,46,Manitoba,1.805856443
+R1C,46,Manitoba,41.88304348
+S4H,47,Saskatchewan,19.28594434
+S4L,47,Saskatchewan,33.87531636
+S4N,47,Saskatchewan,394.7058267
+T4B,48,Alberta,380.7585703
+T4C,48,Alberta,821.214601
+T4E,48,Alberta,132.8438931
+R3J,46,Manitoba,21.38795515
+R3K,46,Manitoba,6.035857814
+R3L,46,Manitoba,5.644601197
+R3M,46,Manitoba,7.255315058
+T2B,48,Alberta,19.99668199
+R3W,46,Manitoba,11.76142618
+R3X,46,Manitoba,17.73770545
+R3Y,46,Manitoba,18.42903421
+R4A,46,Manitoba,84.34030988
+T4H,48,Alberta,1054.449341
+T4J,48,Alberta,1349.14226
+T4L,48,Alberta,807.1269806
+N6C,35,Ontario,12.08243762
+T4G,48,Alberta,1100.501773
+T5A,48,Alberta,12.86749552
+T5B,48,Alberta,7.408930868
+T5C,48,Alberta,5.616618645
+T5E,48,Alberta,12.28456424
+T2C,48,Alberta,15.82996489
+T2E,48,Alberta,50.283117
+L1Y,35,Ontario,98.67857921
+T2N,48,Alberta,11.26301073
+T2P,48,Alberta,377.8969331
+T2R,48,Alberta,1.29996462
+T2S,48,Alberta,6.685151022
+T2T,48,Alberta,7.413374055
+N6E,35,Ontario,18.79398082
+R1N,46,Manitoba,795.0163506
+N6K,35,Ontario,36.57811193
+N6M,35,Ontario,44.37673666
+N6N,35,Ontario,71.53512012
+L1Z,35,Ontario,24.68592683
+N3H,35,Ontario,40.49685974
+N9E,35,Ontario,16.17794132
+N3S,35,Ontario,24.47969085
+N3T,35,Ontario,281.4815591
+N3V,35,Ontario,0.639450399
+N3W,35,Ontario,205.8666248
+N3Y,35,Ontario,373.5327878
+N4G,35,Ontario,129.4522361
+N4K,35,Ontario,436.2458145
+N4L,35,Ontario,301.1219893
+N4S,35,Ontario,288.9613493
+N4T,35,Ontario,32.2960579
+N5C,35,Ontario,133.98573
+N5H,35,Ontario,302.0773932
+N5L,35,Ontario,65.18400059
+N5P,35,Ontario,312.600981
+N6L,35,Ontario,80.94904297
+N6P,35,Ontario,33.54315907
+N7A,35,Ontario,268.3722221
+N7M,35,Ontario,349.2597339
+N7T,35,Ontario,111.5846576
+R2C,46,Manitoba,123.6794743
+S4P,47,Saskatchewan,289.1583984
+S4R,47,Saskatchewan,31.73427689
+S4S,47,Saskatchewan,863.389679
+N2P,35,Ontario,20.90185844
+N2R,35,Ontario,28.42936072
+N2T,35,Ontario,7.542798056
+N9G,35,Ontario,10.62434034
+N9H,35,Ontario,18.13160197
+N9J,35,Ontario,53.71111824
+N9K,35,Ontario,9.105411598
+N9V,35,Ontario,151.3704871
+N9Y,35,Ontario,83.55766343
+P0A,35,Ontario,5640.655953
+P0B,35,Ontario,1107.170991
+P0C,35,Ontario,1108.774663
+P0E,35,Ontario,213.6787567
+P0G,35,Ontario,909.6920099
+P0H,35,Ontario,21260.10261
+P0J,35,Ontario,9085.558431
+P0K,35,Ontario,16357.59108
+R3N,46,Manitoba,8.691919132
+P3A,35,Ontario,36.4538545
+P3B,35,Ontario,25.45062016
+P3C,35,Ontario,11.11672996
+P3E,35,Ontario,1239.034774
+P3L,35,Ontario,135.8663929
+S4T,47,Saskatchewan,19.8641706
+S4V,47,Saskatchewan,28.44911777
+T4M,48,Alberta,13.95690334
+T4N,48,Alberta,518.4516314
+T4P,48,Alberta,25.55003927
+T4R,48,Alberta,38.17783255
+T4S,48,Alberta,285.8852397
+M4W,35,Ontario,4.732978074
+M4X,35,Ontario,1.215400364
+M4Y,35,Ontario,1.020050633
+M5N,35,Ontario,2.886945947
+R3P,46,Manitoba,19.15226252
+R3R,46,Manitoba,16.00194615
+R3S,46,Manitoba,26.87101325
+R3T,46,Manitoba,24.97265979
+R4G,46,Manitoba,38.67190315
+R4H,46,Manitoba,106.9847327
+R4J,46,Manitoba,1.135572087
+R4K,46,Manitoba,285.9383734
+R4L,46,Manitoba,206.5585353
+R5G,46,Manitoba,175.6683032
+R5H,46,Manitoba,315.4091339
+R7A,46,Manitoba,807.5850969
+R8A,46,Manitoba,19152.00707
+R8N,46,Manitoba,21.35367862
+T4T,48,Alberta,7352.30364
+T4V,48,Alberta,366.6323533
+N6G,35,Ontario,20.86449067
+L6C,35,Ontario,55.59899751
+L6E,35,Ontario,8.839397903
+L6G,35,Ontario,15.05298562
+T2G,48,Alberta,14.92859886
+T2H,48,Alberta,6.016579839
+T2J,48,Alberta,255.2415983
+T2K,48,Alberta,13.44888105
+T2L,48,Alberta,6.872327589
+T2M,48,Alberta,140.8713045
+T2V,48,Alberta,20.85056007
+T2W,48,Alberta,279.4053668
+T2X,48,Alberta,39.75688179
+T2Y,48,Alberta,43.74392602
+T2Z,48,Alberta,70.49829423
+T3A,48,Alberta,22.0505276
+T3B,48,Alberta,26.47130097
+T3K,48,Alberta,40.91653288
+T3L,48,Alberta,56.68947683
+T3Z,48,Alberta,461.6477934
+S0A,47,Saskatchewan,34124.1298
+S0C,47,Saskatchewan,22462.40801
+N6H,35,Ontario,36.34145774
+N6J,35,Ontario,10.07188251
+R2E,46,Manitoba,42.71862448
+R2G,46,Manitoba,12.54669772
+L9N,35,Ontario,59.88210448
+L9P,35,Ontario,201.7917502
+M4V,35,Ontario,2.86217065
+N3L,35,Ontario,117.3576738
+N3P,35,Ontario,6.222479933
+N3R,35,Ontario,15.81672165
+P0L,35,Ontario,130497.7487
+P0M,35,Ontario,70720.8601
+P0N,35,Ontario,1840.824414
+P0P,35,Ontario,5307.600211
+P0R,35,Ontario,13522.38838
+N4B,35,Ontario,150.0418665
+N4N,35,Ontario,149.5901823
+N4V,35,Ontario,2.586740442
+R2H,46,Manitoba,6.719432308
+R2J,46,Manitoba,28.95985678
+S4W,47,Saskatchewan,37.82113713
+S4X,47,Saskatchewan,14.37799053
+S4Y,47,Saskatchewan,10.30739032
+S4Z,47,Saskatchewan,0.744384695
+S6H,47,Saskatchewan,45.85582195
+M5P,35,Ontario,3.443347161
+M5R,35,Ontario,3.057206883
+M5S,35,Ontario,2.011063356
+M5T,35,Ontario,1.592686846
+T5H,48,Alberta,7.34203039
+T5J,48,Alberta,1.085745379
+T5K,48,Alberta,3.671189171
+T5L,48,Alberta,9.115774105
+N7G,35,Ontario,233.8174757
+P3G,35,Ontario,147.2893642
+P3N,35,Ontario,99.70434031
+R5A,46,Manitoba,230.0395062
+S6J,47,Saskatchewan,345.2893143
+S6K,47,Saskatchewan,0.497271478
+S6V,47,Saskatchewan,2913.544851
+S6W,47,Saskatchewan,1.562106753
+S6X,47,Saskatchewan,2.01009262
+T4X,48,Alberta,264.5871316
+N8R,35,Ontario,6.195819291
+N8S,35,Ontario,8.321762972
+N8T,35,Ontario,12.13429581
+R2W,46,Manitoba,7.467852851
+R2X,46,Manitoba,9.158468481
+R2Y,46,Manitoba,24.30802381
+R3A,46,Manitoba,1.263710146
+N7L,35,Ontario,27.99254058
+N7S,35,Ontario,17.24757809
+N8H,35,Ontario,172.1898019
+R2K,46,Manitoba,10.60984558
+R6M,46,Manitoba,506.1973882
+R6W,46,Manitoba,367.1977418
+S0E,47,Saskatchewan,28033.59692
+T3C,48,Alberta,10.39181515
+P5A,35,Ontario,864.0074782
+P5E,35,Ontario,95.44151215
+P5N,35,Ontario,86.72204572
+P6A,35,Ontario,574.0740154
+R9A,46,Manitoba,796.1619021
+S0G,47,Saskatchewan,35935.19814
+R3B,46,Manitoba,2.562854187
+T0P,48,Alberta,32370.49299
+T0V,48,Alberta,57.39655131
+T1A,48,Alberta,1624.089365
+T1B,48,Alberta,4040.361252
+T1C,48,Alberta,11.13323061
+T1G,48,Alberta,733.4080838
+T1H,48,Alberta,38.67283098
+T1J,48,Alberta,719.7636915
+T1K,48,Alberta,36.0755382
+R2L,46,Manitoba,5.240413712
+R2M,46,Manitoba,15.5474315
+S7M,47,Saskatchewan,44.64289192
+T3E,48,Alberta,16.98546461
+T3G,48,Alberta,24.98401236
+N4W,35,Ontario,321.9880528
+S0H,47,Saskatchewan,33685.33392
+S0J,47,Saskatchewan,332795.5521
+S0K,47,Saskatchewan,33382.87764
+S0L,47,Saskatchewan,29991.24819
+S0M,47,Saskatchewan,27229.42092
+S0N,47,Saskatchewan,37611.38889
+S0P,47,Saskatchewan,78.27537957
+T3M,48,Alberta,34.33239881
+T3N,48,Alberta,25.11128142
+T1L,48,Alberta,4.695479641
+L1P,35,Ontario,13.96977223
+L1R,35,Ontario,22.75354486
+L1S,35,Ontario,21.69849827
+S7N,47,Saskatchewan,15.95472374
+S7P,47,Saskatchewan,12.73117071
+S7R,47,Saskatchewan,3.459307013
+T5M,48,Alberta,13.02352822
+N4X,35,Ontario,311.4562066
+N4Z,35,Ontario,4.591920634
+N5A,35,Ontario,183.0654685
+N8A,35,Ontario,416.0142239
+T3P,48,Alberta,46.2549631
+N5W,35,Ontario,18.74212691
+L1T,35,Ontario,24.43087412
+N8W,35,Ontario,17.75695458
+N8X,35,Ontario,8.765312327
+T5N,48,Alberta,7.382329666
+T5P,48,Alberta,6.863499007
+T5R,48,Alberta,12.43262403
+N7V,35,Ontario,8.161248635
+P3P,35,Ontario,537.3595628
+P3Y,35,Ontario,129.9901855
+P4N,35,Ontario,311.8916657
+P4P,35,Ontario,82.5188106
+N5X,35,Ontario,46.04954843
+P6B,35,Ontario,19.49608963
+P6C,35,Ontario,33.14410256
+P7A,35,Ontario,435.9696965
+P7C,35,Ontario,33.06713096
+P7G,35,Ontario,4396.303081
+P7J,35,Ontario,180.2628097
+N8Y,35,Ontario,8.491688325
+R3C,46,Manitoba,142.8648619
+R3E,46,Manitoba,6.8876107
+R3G,46,Manitoba,6.917275113
+R3H,46,Manitoba,3.43211013
+N7W,35,Ontario,38.6838036
+N7X,35,Ontario,4.390261733
+R2N,46,Manitoba,40.4728499
+R2P,46,Manitoba,16.85200782
+R7B,46,Manitoba,13.34107723
+R7C,46,Manitoba,10.21261611
+R7N,46,Manitoba,1212.841275
+P7B,35,Ontario,13.99969964
+P7K,35,Ontario,121.8089034
+P7L,35,Ontario,911.3598415
+S2V,47,Saskatchewan,4.48300862
+S3N,47,Saskatchewan,1706.918701
+S4A,47,Saskatchewan,843.2964856
+T1M,48,Alberta,460.2025304
+T1P,48,Alberta,780.5970885
+T1R,48,Alberta,909.3078529
+T1S,48,Alberta,548.6470727
+T1V,48,Alberta,460.1581208
+T1W,48,Alberta,2731.52114
+T1X,48,Alberta,359.6086308
+T1Y,48,Alberta,15.5865731
+T1Z,48,Alberta,5.094824662
+T2A,48,Alberta,20.25885937
+R2R,46,Manitoba,17.45894939
+R2V,46,Manitoba,19.73870906
+S7S,47,Saskatchewan,2.569806158
+S7T,47,Saskatchewan,114.9817373
+S7V,47,Saskatchewan,7.477709914
+T3H,48,Alberta,37.66680669
+T3J,48,Alberta,37.50751203
+N5R,35,Ontario,31.44674663
+T3R,48,Alberta,153.6015405
+T3S,48,Alberta,40.94866959
+T4A,48,Alberta,64.21852918
+L1V,35,Ontario,43.38778883
+L1W,35,Ontario,18.851846
+L1X,35,Ontario,15.687357
+S7W,47,Saskatchewan,15.85973641
+S9A,47,Saskatchewan,853.5161193
+S9H,47,Saskatchewan,1769.841023
+S9V,47,Saskatchewan,1234.073927
+S9X,47,Saskatchewan,3916.805408
+T0A,48,Alberta,38379.79282
+T0B,48,Alberta,31572.82721
+T0C,48,Alberta,17737.41241
+T0E,48,Alberta,32204.86352
+T0G,48,Alberta,62805.69798
+T0H,48,Alberta,219523.4659
+T0J,48,Alberta,38361.90634
+T0K,48,Alberta,25577.54323
+T0L,48,Alberta,28737.38995
+T0M,48,Alberta,21225.13328
+T5S,48,Alberta,47.28371154
+V3C,59,British Columbia / Colombie-Britannique,26.28938784
+V5Z,59,British Columbia / Colombie-Britannique,3.752337042
+V6A,59,British Columbia / Colombie-Britannique,3.230539497
+V8N,59,British Columbia / Colombie-Britannique,15.0563631
+V1Y,59,British Columbia / Colombie-Britannique,30.0259522
+T6W,48,Alberta,46.35029174
+T6X,48,Alberta,44.26835759
+T7A,48,Alberta,2174.552283
+T7E,48,Alberta,7905.889288
+T7N,48,Alberta,800.7824959
+V3N,59,British Columbia / Colombie-Britannique,11.40643391
+V7B,59,British Columbia / Colombie-Britannique,23.16068119
+V7C,59,British Columbia / Colombie-Britannique,11.27072944
+T8X,48,Alberta,164.0594169
+V3R,59,British Columbia / Colombie-Britannique,21.78092662
+V6S,59,British Columbia / Colombie-Britannique,10.71178504
+V6T,59,British Columbia / Colombie-Britannique,6.979253115
+T9E,48,Alberta,325.2678763
+V4A,59,British Columbia / Colombie-Britannique,18.35043065
+V4B,59,British Columbia / Colombie-Britannique,5.123107868
+V6V,59,British Columbia / Colombie-Britannique,26.00687851
+T7P,48,Alberta,585.2727109
+T7S,48,Alberta,2363.044514
+T7V,48,Alberta,4424.28842
+T7X,48,Alberta,307.7189036
+T7Y,48,Alberta,187.8778561
+T7Z,48,Alberta,549.3094865
+T8A,48,Alberta,40.83651435
+T8B,48,Alberta,102.9513321
+T8E,48,Alberta,233.2268912
+T8G,48,Alberta,300.0848995
+T8L,48,Alberta,457.5151843
+T8N,48,Alberta,47.40984498
+T8R,48,Alberta,478.0091395
+T8S,48,Alberta,349.5354384
+V4C,59,British Columbia / Colombie-Britannique,14.00716046
+V4E,59,British Columbia / Colombie-Britannique,7.071112082
+V7E,59,British Columbia / Colombie-Britannique,20.956714
+T8C,48,Alberta,126.8692862
+V3S,59,British Columbia / Colombie-Britannique,51.45875739
+V3T,59,British Columbia / Colombie-Britannique,8.298246292
+V7G,59,British Columbia / Colombie-Britannique,42.67263124
+V7H,59,British Columbia / Colombie-Britannique,36.71786758
+V7J,59,British Columbia / Colombie-Britannique,29.45649694
+V7W,59,British Columbia / Colombie-Britannique,852.2764482
+V8A,59,British Columbia / Colombie-Britannique,897.3555423
+V8B,59,British Columbia / Colombie-Britannique,56.38790161
+V8C,59,British Columbia / Colombie-Britannique,249.4044584
+V8G,59,British Columbia / Colombie-Britannique,9573.067593
+V8J,59,British Columbia / Colombie-Britannique,3000.772772
+V8K,59,British Columbia / Colombie-Britannique,185.9339371
+V8L,59,British Columbia / Colombie-Britannique,45.5705207
+V3V,59,British Columbia / Colombie-Britannique,19.25505385
+V6W,59,British Columbia / Colombie-Britannique,26.6673959
+V6X,59,British Columbia / Colombie-Britannique,14.85519365
+V6Y,59,British Columbia / Colombie-Britannique,10.02772237
+T9G,48,Alberta,152.0761265
+T9H,48,Alberta,31032.78326
+T9J,48,Alberta,5.226229268
+T9K,48,Alberta,40.41725295
+T9M,48,Alberta,854.924752
+T9N,48,Alberta,318.5200517
+T9S,48,Alberta,1577.440292
+T9V,48,Alberta,384.7543654
+T9W,48,Alberta,751.6683225
+V0A,59,British Columbia / Colombie-Britannique,20848.71485
+V0B,59,British Columbia / Colombie-Britannique,20632.40308
+V0C,59,British Columbia / Colombie-Britannique,312922.2524
+V0E,59,British Columbia / Colombie-Britannique,52673.52906
+V0G,59,British Columbia / Colombie-Britannique,16100.28098
+V0H,59,British Columbia / Colombie-Britannique,10001.24737
+V0J,59,British Columbia / Colombie-Britannique,175381.5923
+V0K,59,British Columbia / Colombie-Britannique,36293.44664
+V6Z,59,British Columbia / Colombie-Britannique,0.663562942
+T8H,48,Alberta,38.008032
+T8T,48,Alberta,382.522039
+T8V,48,Alberta,51.35022699
+T8W,48,Alberta,331.3551524
+V4G,59,British Columbia / Colombie-Britannique,15.62193381
+V4L,59,British Columbia / Colombie-Britannique,6.545027873
+V4M,59,British Columbia / Colombie-Britannique,13.70436762
+T9A,48,Alberta,1003.814404
+T9C,48,Alberta,583.6643512
+V3W,59,British Columbia / Colombie-Britannique,23.69706635
+V3X,59,British Columbia / Colombie-Britannique,14.01812003
+V7K,59,British Columbia / Colombie-Britannique,7.771049304
+V7L,59,British Columbia / Colombie-Britannique,7.252464916
+V7M,59,British Columbia / Colombie-Britannique,3.72092696
+V3Y,59,British Columbia / Colombie-Britannique,96.20970998
+V3Z,59,British Columbia / Colombie-Britannique,92.98451296
+V4K,59,British Columbia / Colombie-Britannique,145.480824
+V7A,59,British Columbia / Colombie-Britannique,18.60652624
+T9X,48,Alberta,777.1888738
+V0L,59,British Columbia / Colombie-Britannique,47271.02907
+V0M,59,British Columbia / Colombie-Britannique,4223.470435
+V0N,59,British Columbia / Colombie-Britannique,25139.70825
+V0P,59,British Columbia / Colombie-Britannique,29391.53966
+V0R,59,British Columbia / Colombie-Britannique,8863.378222
+V0S,59,British Columbia / Colombie-Britannique,1290.671694
+V0T,59,British Columbia / Colombie-Britannique,34856.86136
+V0V,59,British Columbia / Colombie-Britannique,25092.45968
+V0W,59,British Columbia / Colombie-Britannique,1164.006064
+V0X,59,British Columbia / Colombie-Britannique,10701.50481
+V1B,59,British Columbia / Colombie-Britannique,445.8770691
+V1C,59,British Columbia / Colombie-Britannique,1911.459023
+V1E,59,British Columbia / Colombie-Britannique,445.7093699
+V1G,59,British Columbia / Colombie-Britannique,10226.39529
+V1H,59,British Columbia / Colombie-Britannique,1060.02994
+V1J,59,British Columbia / Colombie-Britannique,173.7034908
+V5J,59,British Columbia / Colombie-Britannique,14.54482691
+V5K,59,British Columbia / Colombie-Britannique,5.88237923
+V5L,59,British Columbia / Colombie-Britannique,3.477408266
+V5M,59,British Columbia / Colombie-Britannique,4.89155273
+V8W,59,British Columbia / Colombie-Britannique,1.458559513
+V4N,59,British Columbia / Colombie-Britannique,72.98782719
+V4P,59,British Columbia / Colombie-Britannique,10.73566987
+V4R,59,British Columbia / Colombie-Britannique,185.8681981
+V7N,59,British Columbia / Colombie-Britannique,18.85753919
+V6B,59,British Columbia / Colombie-Britannique,2.379962566
+V6C,59,British Columbia / Colombie-Britannique,0.143310923
+V6E,59,British Columbia / Colombie-Britannique,1.242234094
+T6H,48,Alberta,17.48371479
+T6J,48,Alberta,31.23224341
+T6K,48,Alberta,10.21159553
+V8X,59,British Columbia / Colombie-Britannique,13.1598994
+V8Y,59,British Columbia / Colombie-Britannique,10.76639367
+V8Z,59,British Columbia / Colombie-Britannique,23.5401423
+V9A,59,British Columbia / Colombie-Britannique,13.0699824
+V9B,59,British Columbia / Colombie-Britannique,73.30076399
+V9C,59,British Columbia / Colombie-Britannique,101.6143189
+V9E,59,British Columbia / Colombie-Britannique,179.7411351
+V9G,59,British Columbia / Colombie-Britannique,117.1741169
+V9H,59,British Columbia / Colombie-Britannique,1739.28815
+V9J,59,British Columbia / Colombie-Britannique,177.7772436
+V9K,59,British Columbia / Colombie-Britannique,412.4484442
+V9L,59,British Columbia / Colombie-Britannique,633.4066928
+V9N,59,British Columbia / Colombie-Britannique,858.2228701
+V9P,59,British Columbia / Colombie-Britannique,115.4690012
+V9R,59,British Columbia / Colombie-Britannique,64.52076634
+V9S,59,British Columbia / Colombie-Britannique,13.50597109
+V9T,59,British Columbia / Colombie-Britannique,28.33143856
+V5R,59,British Columbia / Colombie-Britannique,5.844036071
+V7P,59,British Columbia / Colombie-Britannique,5.130073076
+V7R,59,British Columbia / Colombie-Britannique,26.06635888
+V1A,59,British Columbia / Colombie-Britannique,2174.731415
+V1K,59,British Columbia / Colombie-Britannique,2478.266251
+V1L,59,British Columbia / Colombie-Britannique,955.4979533
+V1N,59,British Columbia / Colombie-Britannique,1936.203711
+V1P,59,British Columbia / Colombie-Britannique,1103.897204
+V1R,59,British Columbia / Colombie-Britannique,816.342826
+V1S,59,British Columbia / Colombie-Britannique,286.4422222
+V4T,59,British Columbia / Colombie-Britannique,116.7845615
+V2L,59,British Columbia / Colombie-Britannique,7.997930635
+V2R,59,British Columbia / Colombie-Britannique,250.3720735
+V5A,59,British Columbia / Colombie-Britannique,21.64527202
+T6L,48,Alberta,17.92553732
+V3E,59,British Columbia / Colombie-Britannique,86.65305773
+Y1A,60,Yukon,7499.769474
+V5N,59,British Columbia / Colombie-Britannique,4.963348901
+V5P,59,British Columbia / Colombie-Britannique,5.160971447
+V1M,59,British Columbia / Colombie-Britannique,73.12567366
+V4S,59,British Columbia / Colombie-Britannique,198.6764018
+V1T,59,British Columbia / Colombie-Britannique,23.91362873
+V1X,59,British Columbia / Colombie-Britannique,223.626086
+V1Z,59,British Columbia / Colombie-Britannique,878.8578398
+V2A,59,British Columbia / Colombie-Britannique,298.3088167
+V2B,59,British Columbia / Colombie-Britannique,99.13607157
+V2C,59,British Columbia / Colombie-Britannique,520.1036781
+V5B,59,British Columbia / Colombie-Britannique,8.27056395
+V5C,59,British Columbia / Colombie-Britannique,7.613311863
+V8P,59,British Columbia / Colombie-Britannique,9.008724069
+V3G,59,British Columbia / Colombie-Britannique,202.9632015
+V3H,59,British Columbia / Colombie-Britannique,61.71847387
+V6G,59,British Columbia / Colombie-Britannique,5.246787163
+V5S,59,British Columbia / Colombie-Britannique,7.339349703
+V5T,59,British Columbia / Colombie-Britannique,3.083914679
+T5X,48,Alberta,19.20597838
+T5Y,48,Alberta,118.4942983
+V4V,59,British Columbia / Colombie-Britannique,163.0600352
+V7S,59,British Columbia / Colombie-Britannique,69.3490749
+V7T,59,British Columbia / Colombie-Britannique,4.7140594
+V8R,59,British Columbia / Colombie-Britannique,8.044574348
+V2S,59,British Columbia / Colombie-Britannique,36.08359691
+V6H,59,British Columbia / Colombie-Britannique,2.704278519
+V6J,59,British Columbia / Colombie-Britannique,4.071409155
+V6K,59,British Columbia / Colombie-Britannique,3.1505633
+T5Z,48,Alberta,12.21161063
+T6A,48,Alberta,8.555090039
+V2Z,59,British Columbia / Colombie-Britannique,93.02095065
+V7V,59,British Columbia / Colombie-Britannique,6.715333566
+V1V,59,British Columbia / Colombie-Britannique,70.45388787
+V2T,59,British Columbia / Colombie-Britannique,37.3307234
+V2V,59,British Columbia / Colombie-Britannique,2193.999136
+V2W,59,British Columbia / Colombie-Britannique,75.63331605
+V9V,59,British Columbia / Colombie-Britannique,6.170018922
+V9W,59,British Columbia / Colombie-Britannique,96.25984641
+V9X,59,British Columbia / Colombie-Britannique,1151.828781
+T6M,48,Alberta,41.43870475
+T6P,48,Alberta,11.33117997
+T6R,48,Alberta,20.19746952
+T6S,48,Alberta,11.80286482
+T6T,48,Alberta,13.53993242
+V3A,59,British Columbia / Colombie-Britannique,24.80935261
+V5V,59,British Columbia / Colombie-Britannique,3.721602566
+V5W,59,British Columbia / Colombie-Britannique,3.270800188
+V5X,59,British Columbia / Colombie-Britannique,6.633782623
+V1W,59,British Columbia / Colombie-Britannique,100.4329671
+V2E,59,British Columbia / Colombie-Britannique,102.8003437
+V2G,59,British Columbia / Colombie-Britannique,2600.776269
+V2H,59,British Columbia / Colombie-Britannique,226.9161976
+V2J,59,British Columbia / Colombie-Britannique,21402.50788
+V2K,59,British Columbia / Colombie-Britannique,1584.764531
+V2M,59,British Columbia / Colombie-Britannique,114.3629895
+V2N,59,British Columbia / Colombie-Britannique,3496.234873
+V2P,59,British Columbia / Colombie-Britannique,102.0355034
+V4W,59,British Columbia / Colombie-Britannique,94.57224108
+V3J,59,British Columbia / Colombie-Britannique,14.20250036
+V3K,59,British Columbia / Colombie-Britannique,16.69978383
+V3L,59,British Columbia / Colombie-Britannique,7.738793566
+V3M,59,British Columbia / Colombie-Britannique,10.43503701
+V5Y,59,British Columbia / Colombie-Britannique,4.226144572
+T6B,48,Alberta,18.24284466
+T6C,48,Alberta,8.610248493
+V4X,59,British Columbia / Colombie-Britannique,135.2434449
+V4Z,59,British Columbia / Colombie-Britannique,702.1143102
+V8M,59,British Columbia / Colombie-Britannique,45.09358229
+V6L,59,British Columbia / Colombie-Britannique,3.622676811
+V6M,59,British Columbia / Colombie-Britannique,4.436814064
+V6N,59,British Columbia / Colombie-Britannique,8.943707057
+V6P,59,British Columbia / Colombie-Britannique,9.244280364
+V6R,59,British Columbia / Colombie-Britannique,4.77370892
+T6V,48,Alberta,10.63909075
+T6E,48,Alberta,12.11534928
+T6G,48,Alberta,6.165334786
+V3B,59,British Columbia / Colombie-Britannique,21.17943069
